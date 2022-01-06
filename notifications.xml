@@ -1,0 +1,6 @@
+<application>
+  <component name="NotificationConfiguration" showBalloons="false" systemNotifications="false">
+    <notification groupId="IDE and Plugin Updates" displayType="NONE" shouldLog="false" />
+    <notification groupId="JRebel non-sticky" shouldLog="false" />
+  </component>
+</application>
